@@ -1,1 +1,7 @@
 //ini pembahasan tipe data menggunakan java
+
+int Angka = 3;
+float Bilangan = 2.3f;
+double Angka1 = 3.1;
+char A = 'A';
+String huruf = "Hello world";
